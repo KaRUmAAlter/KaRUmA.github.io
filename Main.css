@@ -1,0 +1,106 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	background-image: url(pics/个人主页背景.png);
+	background-position: right;	
+	background-attachment: fixed;
+}
+.mainmenu {
+	float:left;
+	margin-top:0%;
+	margin-bottom:10%;
+}
+
+
+ul {
+	align-items: baseline;
+}
+
+.mainpageavatar {
+	float:left;
+	border-color: white;
+	border-radius: 50%
+}
+.homepagebuttons {
+	border-color: #FFFFFF;
+	border-radius: 10px;
+	border-width: 2px;
+	background-color: rgba(255,255,255,0.00);
+	padding:10px 20px 10px 20px;
+	color:#FFFFFF;
+	font-size:20px;
+}
+
+#rollingscreamwords {
+	position:inherit;
+    padding-top:0%;
+	padding-left:10%;
+	color: white;
+	font-size: 80px;
+	
+}
+
+#mainpagediscription {
+	margin-top:-5%;
+	padding-top:-5%;
+	font-size: 30px;
+}
+
+#homepagefooter {
+	width:100%;
+	margin:5% 0 0 auto;
+	font-size: 15px;
+}
+
+h2 {
+	color:aliceblue;
+	font-size: 60px;
+	margin:10% auto -5% 5%;
+	padding:20% auto auto -20%;
+}
+
+.informationbox {
+	width:90%;
+	border:rgba(255,255,255,0.3) 3px solid;
+	border-radius: 20px;
+	margin:10% auto auto 5%;
+	background-color: rgba(62,149,226,0.20);
+	color:aliceblue;
+	padding:20% auto auto auto;
+	
+}
+
+.aboutmewords {
+	margin-left:10px;
+	margin-right:5%;
+}
+
+.pagebuttons {
+	border-color: rgba(102,184,251,0.20);
+	border-radius: 10px;
+	border-width: 2px;
+	background-color: rgba(255,255,255,0.00);
+	margin:30px auto 10px 5%;
+	padding:10px 20px 10px 20px;
+	color:aliceblue;
+	font-size:20px;
+}
+
+.illustration {
+	max-height: 250px;
+	max-width: 250px;  
+    border: 3px solid rgba(183,142,58,0.30); 
+	border-radius: 20px;
+	margin:15px auto 8px 8px;
+}
+
+.subtitle {
+	color:white;
+	font-size:20px;
+	margin:15px auto 15px 15px;
+}
+
+.pictures {
+	margin-left:15px;
+}
